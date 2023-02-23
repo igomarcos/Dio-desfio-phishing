@@ -93,6 +93,8 @@ Você pode pegar o IP definido comos ervidor e digitar no seu navegador e da um 
 -----
 Depois que a vitima colocar todas as credenciais e clicar em entrar, a pagina ira carregar e dar um glitch, o link será redirecionado para a pagina real do facebook enquanto o setoolkit irá coletar as credenciais colocada.
 
+![2023-02-23_14-02-43_AdobeExpress (1)](https://user-images.githubusercontent.com/78884474/220979567-43960d8d-990b-4386-bcc1-6e97264bf15b.gif)
+
 
 
 
